@@ -1,7 +1,8 @@
-:root{
-    --black: "000000";
+
+html{
+    font-size: 18px;
 }
 
-:root{
-    --white: "000000";
+*{
+    text-decoration: none;
 }
