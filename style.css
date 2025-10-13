@@ -6,3 +6,27 @@ html{
 *{
     text-decoration: none;
 }
+
+.btn{
+    background-color: white;
+    margin-left: 0.5rem;
+    border-radius: 12px;
+    padding: 0.5rem;
+    width: 150px;
+    font-family:  'Poppins', sans-serif;
+}
+
+.middleText{
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+.mainText{
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.smallText{
+    font-size: 0.8rem;
+}

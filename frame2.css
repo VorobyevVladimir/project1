@@ -1,0 +1,17 @@
+.frame2{
+    width: 105.85rem;
+    height: 70rem;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.frameTwoText{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.frameTwoTextBlock{
+    padding-left: 40rem;
+}
