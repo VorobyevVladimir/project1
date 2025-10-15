@@ -1,0 +1,24 @@
+.frame3 {
+    width: 100vw;
+    height: 40rem;
+    background-image: url("image/thirdFrameBg.png");
+    background-size: cover;
+}
+
+.frameThreeTextBlock{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    padding-top: 44vh;
+}
+
+.frameThreeText{
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lineThreePadding{
+    padding-top: 5rem;
+}

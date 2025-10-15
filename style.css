@@ -17,7 +17,7 @@ html{
 }
 
 .middleText{
-    font-weight: 400;
+    font-weight: 300;
     font-size: 1rem;
     letter-spacing: 2px;
 }
@@ -29,4 +29,12 @@ html{
 
 .smallText{
     font-size: 0.8rem;
+    font-weight: 200;
+}
+
+.miniSVG{
+    padding-left: 1.5rem;
+}
+.miniInfoLine{
+    padding-left: 85rem;
 }
