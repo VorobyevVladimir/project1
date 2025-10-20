@@ -1,0 +1,24 @@
+.frame6{
+    width: 98vw;
+    height: 30rem;
+    background-color: black;
+    padding-top: 6rem;
+    overflow: hidden;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.frameSixText{
+    display: flex;
+    justify-content: center;
+}
+
+.clients{
+    display: inline;
+    padding-top: 16rem;
+    padding-left: 12rem;
+}
+
+.client{
+   margin: 6rem;
+}

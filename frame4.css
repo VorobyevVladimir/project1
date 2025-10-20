@@ -1,18 +1,21 @@
 .halfScreen{
-    display: inline;
+
 }
 
 .firstHalf{
-    width: 50vw;
-    height: 30rem;
+    width: 44.5vw;
+    height: 50rem;
     background-color: black;
+    display: inline;
 
 }
 
 .secondHalf{
-    width: 50vw;
-    height 30rem;
+    width: 44.5vw;
+    height: 50rem;
     background-image: url("image/frameFourBg.png");
     background-size: cover;
-    padding-left: 50vw;
+    padding-left: 55.5rem;
+    position: sticky;
+    display: inline;
 }

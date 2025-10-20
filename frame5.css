@@ -1,24 +1,24 @@
-.frame3 {
+.frame5 {
     width: 98vw;
     height: 40rem;
-    background-image: url("image/thirdFrameBg.png");
+    background-image: url("image/frameFiveBg.png");
     background-size: cover;
 }
 
-.frameThreeTextBlock{
+.frameFiveTextBlock{
     color: white;
     font-family: 'Poppins', sans-serif;
     display: block;
     padding-top: 44vh;
 }
 
-.frameThreeText{
+.frameFiveText{
     padding-right: 5rem;
     padding-top: 0.5rem;
     display: flex;
     justify-content: flex-end;
 }
 
-.lineThreePadding{
+.lineFivePadding{
     padding-top: 5rem;
 }
