@@ -1,0 +1,27 @@
+.frame8{
+    width: 98vw;
+    height: 32rem;
+    background-color: black;
+    padding-top: 6rem;
+    overflow: hidden;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.frameEightBlock{
+    padding-left: 15rem;
+    width: 45vw;
+    height: 25rem;
+    overflow: hidden;
+}
+
+.frameEightMiddle{
+    padding-left: 12rem;
+    font-size: 1.5rem;
+}
+
+.buttonBlock{
+    padding-left: 15.5rem;
+}
