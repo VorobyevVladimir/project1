@@ -33,8 +33,27 @@ html{
 }
 
 .miniSVG{
-    padding-left: 1.5rem;
+    padding-left: 0.5rem;
 }
 .miniInfoLine{
-    padding-left: 85rem;
+    padding-left: 82rem;
+
 }
+
+.frameTextBlock{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    padding-top: 44vh;
++}
+
+.frameText{
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.linePadding{
+    padding-top: 5rem;
++}

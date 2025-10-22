@@ -1,3 +1,4 @@
+
 .halfScreen{
 
 }
@@ -18,4 +19,22 @@
     padding-left: 55.5rem;
     position: sticky;
     display: inline;
+
+.halfScreen{
+    display: inline;
+}
+
+.firstHalf{
+    width: 50vw;
+    height: 30rem;
+    background-color: black;
+
+}
+
+.secondHalf{
+    width: 50vw;
+    height: 30rem;
+    background-image: url("image/frameFourBg.png");
+    background-size: cover;
+    padding-left: 50vw;
 }

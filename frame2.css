@@ -1,3 +1,15 @@
+
+
+.frameTwoText{
+    padding-right: 10rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.frameTwoTextBlock{
+    padding-left: 40rem;
+}
+
 .frame2{
     width: 98vw;
     height: 70rem;
@@ -8,4 +20,5 @@
     color: white;
     font-family: 'Poppins', sans-serif;
 }
+
 
