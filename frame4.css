@@ -1,40 +1,19 @@
-
-.halfScreen{
-
-}
-
-.firstHalf{
-    width: 44.5vw;
-    height: 50rem;
+.frame4{
+    width: 98vw;
+    height: 35rem;
     background-color: black;
-    display: inline;
-
+    overflow: hidden;
+    color: white;
+    font-family: 'Poppins', sans-serif;
 }
 
-.secondHalf{
-    width: 44.5vw;
-    height: 50rem;
-    background-image: url("image/frameFourBg.png");
-    background-size: cover;
-    padding-left: 55.5rem;
-    position: sticky;
-    display: inline;
-
-.halfScreen{
-    display: inline;
+.frameFourTextBlock{
+    padding-left: 18vw;
+    padding-top: 5rem;
+    width: 49vw;
+    height: 35rem;
 }
 
-.firstHalf{
-    width: 50vw;
-    height: 30rem;
-    background-color: black;
 
-}
 
-.secondHalf{
-    width: 50vw;
-    height: 30rem;
-    background-image: url("image/frameFourBg.png");
-    background-size: cover;
-    padding-left: 50vw;
-}
+

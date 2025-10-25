@@ -2,7 +2,7 @@
     width: 98vw;
     height: 30rem;
     background-color: black;
-    padding-top: 6rem;
+    padding-top: 3rem;
     overflow: hidden;
     color: white;
     font-family: 'Poppins', sans-serif;
@@ -16,9 +16,9 @@
 .clients{
     display: inline;
     padding-top: 16rem;
-    padding-left: 12rem;
+    padding-left: 9rem;
 }
 
 .client{
-   margin: 6rem;
+   margin: 5rem;
 }

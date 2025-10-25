@@ -1,15 +1,4 @@
-header{
-    width: 101rem;
-    height: 70px;
-    background-color: black;
-    border-radius: 5px;
-    overflow: hidden;
-    padding-right: 2.5rem;
-    padding-left: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
 
 li{
     list-style: none;
@@ -33,6 +22,8 @@ li{
 
 .frameOneTextBlock{
     padding-top: 25rem;
+   padding-left:40vw;
+
 }
 
 .frameOneText{
@@ -42,17 +33,7 @@ li{
     align-items: center;
 }
 
-.frameOneMainPadding{
-    padding-left: 40rem;
-}
 
-.frameOneMiddlePadding{
-    padding-left: 43rem;
-}
-
-.frameOneSmallPadding{
-    padding-left: 36rem;
-}
 
 .frame1{
     width: 98vw;
@@ -61,16 +42,5 @@ li{
     background-size: cover;
 }
 
-.miniInfoLine{
-    padding-top: 2rem;
-    padding-left: 85rem;
-}
-.miniLineText{
-    font-weight: 300;
-    font-size: 0.8rem;
-}
 
-.miniSVG{
-    padding-left: 3rem;
-}
 

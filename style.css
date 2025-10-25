@@ -17,7 +17,7 @@ html{
 }
 
 .middleText{
-    font-weight: 300;
+    font-weight: 250;
     font-size: 1rem;
     letter-spacing: 2px;
 }
@@ -33,19 +33,19 @@ html{
 }
 
 .miniSVG{
-    padding-left: 0.5rem;
+    padding-left: 1rem;
 }
 .miniInfoLine{
-    padding-left: 82rem;
-
+    padding-left: 85rem;
+    padding-top: 5rem;
 }
 
 .frameTextBlock{
     color: white;
     font-family: 'Poppins', sans-serif;
     display: block;
-    padding-top: 44vh;
-+}
+    padding-top: 20rem;
+}
 
 .frameText{
     padding-right: 5rem;
@@ -54,6 +54,21 @@ html{
     justify-content: flex-end;
 }
 
-.linePadding{
-    padding-top: 5rem;
-+}
+header{
+    width: 101rem;
+    height: 70px;
+    background-color: black;
+    border-radius: 5px;
+    overflow: hidden;
+    padding-right: 2.5rem;
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
