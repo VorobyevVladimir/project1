@@ -1,12 +1,16 @@
 
 
-.frameTwoText{
-    padding-right: 10rem;
-}
+
 
 .frameTwoTextBlock{
-    padding-left: 40rem;
+    display: block;
+    text-align: center;
+    padding: 2rem 1rem;
+
+    color: #fff;
 }
+
+
 
 .frame2{
     width: 98vw;
@@ -18,5 +22,50 @@
     color: white;
     font-family: 'Poppins', sans-serif;
 }
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(280px, 0.4fr));
+    gap: 3rem;
+    padding: 2rem;
+    padding-left: 20rem;
+}
+
+.card {
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.card1{
+    padding-top: 15rem;
+    padding-left: 1rem;
+    background-image: url("image/card1.png");
+    background-size: cover;
+}
+.card3{
+    padding-top: 15rem;
+    padding-left: 1rem;
+    background-image: url("image/card2.png");
+    background-size: cover;
+}
+.card2{
+    padding-top: 15rem;
+    padding-left: 1rem;
+    background-image: url("image/card3.png");
+    background-size: cover;
+}
+.card4{
+    padding-top: 15rem;
+    padding-left: 1rem;
+    background-image: url("image/card4.png");
+    background-size: cover;
+}
+
+
+
+
+
 
 
