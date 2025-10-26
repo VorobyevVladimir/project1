@@ -2,6 +2,7 @@
 
 li{
     list-style: none;
+    padding-right: 100px;
 }
 
 .logo{
@@ -21,17 +22,14 @@ li{
 
 .frameOneTextBlock{
     padding-top: 25rem;
-   padding-left:40vw;
+   padding-left:35vw;
 
 }
 
 .frameOneText{
     color: white;
     font-family: 'Poppins', sans-serif;
-    display: flex;
-    align-items: center;
 }
-
 
 
 .frame1{
